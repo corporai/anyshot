@@ -99,9 +99,7 @@ See our [contribution guidelines](CONTRIBUTING.md) for details on how to get inv
 
 ## Community
 
-- [Discord](https://discord.gg/anyshot) - Get help and discuss features
 - [GitHub Discussions](https://github.com/corporai/anyshot/discussions) - Share ideas and feedback
-- [Twitter](https://twitter.com/anyshotai) - Latest updates
 
 ## License
 
