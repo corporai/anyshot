@@ -91,11 +91,12 @@ export function LoginForm() {
 
 ## Documentation
 
-Visit [add.anyshot.ai](https://add.anyshot.ai) for full documentation.
+- `docs/spec.md` and `docs/architecture.md` in draft
+- `docs/example.md` coming soon
 
 ## Contributing
 
-See our [contribution guidelines](CONTRIBUTING.md) for details on how to get involved.
+See our `[contribution guidelines](CONTRIBUTING.md)` for details on how to get involved.
 
 ## Community
 
