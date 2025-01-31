@@ -56,7 +56,7 @@ export function LoginForm() {
 }
 ```
 
-> [!info] PIP support
+> [!NOTE] PIP support
 > Depending on customer demand, we may add support for PIP packages in the future. E.g:
 >
 > First, install the Anyshot pip library:
@@ -91,12 +91,11 @@ export function LoginForm() {
 
 ## Documentation
 
+Coming soon...
+
 - `docs/spec.md` and `docs/architecture.md` in draft
-- `docs/example.md` coming soon
-
-## Contributing
-
-See our `[contribution guidelines](CONTRIBUTING.md)` for details on how to get involved.
+- `docs/example.md` to get started
+- `CONTRIBUTING.md` for details on how to get involved.
 
 ## Community
 
